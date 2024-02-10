@@ -1,0 +1,8 @@
+{
+  "name": "PolarClient",
+  "creator": "PolarTheIceBear",
+  "description": "Polar V2",
+  "version": "2.1.0",
+  "entry": "loader.js",
+  "requires": ["requestV2","Bloomcore","FontLib","RenderLib","Minigames","Async"]
+}
